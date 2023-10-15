@@ -7,6 +7,7 @@
     "dev": "parcel index.html --open"
   },
   "dependencies": {
+    "parcel": "^2.10.0",
     "three": "^0.157.0"
   }
 }
