@@ -1,0 +1,60 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+.content {
+  color: #fff;
+  background: #000;
+  width: 100%;
+  height: 100vh;
+  position: relative;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+header {
+  position: absolute;
+  top: 3rem;
+  left: 50%;
+  transform: translate(-50%);
+}
+
+.nav_list {
+  gap: 2rem;
+  display: flex;
+}
+
+li {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.description {
+  color: #fff;
+  width: 100%;
+  height: 60%;
+  position: absolute;
+  top: 40%;
+  left: 6rem;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+h2 {
+  width: 93%;
+  padding-top: 1rem;
+  font-size: 35px;
+}
+
+/*# sourceMappingURL=index.ddfb090d.css.map */
