@@ -1,0 +1,12 @@
+{
+  "name": "GDSC",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel index.html --open"
+  },
+  "dependencies": {
+    "three": "^0.157.0"
+  }
+}
